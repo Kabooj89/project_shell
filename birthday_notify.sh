@@ -1,6 +1,5 @@
 #!/bin/bash
-#project by Mohammad Kabajah & Maha Najee 
-#All Rights Reserved
+#project by Mohammad Kabajah
 
 while true
 
